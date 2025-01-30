@@ -1,15 +1,17 @@
-DESAFIOS PENDENTES: 
+Os códigos descritos nas linhas do arquivo app.js são desafios propostos no curso "Lógica de Programação: Explore Funções e Listas", nos quais me dediquei para resolver todos sem precisar de consultas extras. Rsrsrs
 
-    .Curso - Lógica de programação: explore funções e listas - Modulo Funções
+Após finalizar cada desafio, verifiquei se o meu código seguia os mesmos critérios do código do instrutor. Dessa forma, consegui desenvolver minha lógica de programação e, com o auxílio do instrutor, aprimorar as melhores práticas em programação.
 
-    .Criar uma função que exibe "Olá, mundo!" no console.
+Estou salvando esses códigos no meu GitHub para que possa reutilizá-los em algum momento da minha carreira como desenvolvedor. Estou feliz por ter finalizado todos os desafios e por ter aprendido ainda mais sobre essa linguagem incrível que é o JavaScript.
 
-    .Criar uma função que recebe um nome como parâmetro e exibe "Olá, [nome]!" no console.
+    
 
-    .Criar uma função que recebe um número como parâmetro e retorna o dobro desse número.
+    
 
-    .Criar uma função que recebe três números como parâmetros e retorna a média deles.
+    
 
-    .Criar uma função que recebe dois números como parâmetros e retorna o maior deles.
+    
 
-    .Criar uma função que recebe um número como parâmetro e retorna o resultado da multiplicação desse número por ele mesmo
+    
+
+    
