@@ -1,5 +1,6 @@
 DESAFIOS PENDENTES: 
-    *Curso - Lógica de programação: explore funções e listas - Modulo Funções*
+
+    Curso - Lógica de programação: explore funções e listas - Modulo Funções
 
     Criar uma função que exibe "Olá, mundo!" no console.
 
